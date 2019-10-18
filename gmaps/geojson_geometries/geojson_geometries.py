@@ -56,6 +56,11 @@ METADATA = {
         "url": "https://s3-eu-west-1.amazonaws.com/jupyter-gmaps-examples/brazil-states.geo.json",  # noqa
         "description": "Brazil state boundaries",
         "source": "https://github.com/codeforamerica/click_that_hood/blob/master/public/data/brazil-states.geojson (No license specified, so use with care)"  # noqa
+    },
+    "seattle": {
+        "url": "https://opendata.arcgis.com/datasets/36a74a49c2fd45f7918706b0f6e8be3e_1.geojson",  # noqa
+        "description": "Seattle addresses",
+        "source": "https://opendata.arcgis.com/datasets/36a74a49c2fd45f7918706b0f6e8be3e_1.geojson (No license specified, so use with care)"  # noqa
     }
 }
 
